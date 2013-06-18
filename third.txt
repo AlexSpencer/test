@@ -1,2 +1,2 @@
 This is the third file to look for untracked types. 
-Now I am also editing this file to have a proper look at diff. 
+Now I am also editing this file to have a proper look at diff. and a change
