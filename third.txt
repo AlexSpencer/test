@@ -1,1 +1,2 @@
 This is the third file to look for untracke types. 
+Now I am also editing this file to have a proper look at diff. 
